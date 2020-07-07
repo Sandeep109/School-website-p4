@@ -1,0 +1,283 @@
+.header{
+	background-color: rgb(255, 255, 255);
+display: flex;
+justify-content: space-between;
+}
+.TSgri{
+    background-color: #F0F0F0;
+    width: 910;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.TSI1{border: black;
+
+    border: ridge;
+    
+    width: 46;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+.TSI2{
+    border: black;
+    border: ridge;
+    width: 203;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+.TSI3{
+    border: black;
+
+    border: ridge;
+    width: 127;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+.TSI4{
+    border: black;
+
+    border: ridge;
+    width: 434;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+}
+
+.TSR1{
+    border: ridge;
+
+    width: 810;
+    height: 44;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid{
+    background-color: #F0F0F0;
+    padding: 30px;
+	display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.footer{
+    background-color: #F0F0F0;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.Equal{
+
+    background-color: rgb(254, 192, 21);
+    padding: 30px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+}
+.Equalizer{
+
+    background-color: rgb(215, 235, 246);
+    padding: 20px;
+    display: flex;
+    height: 450px;
+    width: 200px;
+flex-direction: column;
+    align-content: space-between;
+
+
+}
+.Equalizer{
+
+    background-color: rgb(215, 235, 246);
+    display: flex;
+
+    align-content: space-between;
+}
+
+
+
+.lowM{
+background-color: rgb(1, 51, 102);
+padding: 50px;
+display: flex;
+
+justify-content: center;
+flex-direction: row;
+
+
+}
+.lowC{
+    padding: 30px;
+    background-color: #F0F0F0;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.lowC1{
+    width: 396;
+    height: 260;
+    display: flex;
+
+}
+.lowC2{
+    width: 396;
+    height: 260;
+    display: flex;
+
+}
+
+
+.lowT{
+    font-family: Georgia;
+    font-style: italic;
+    background-color: rgb(255, 193, 0);
+    padding: 10px;
+    
+    flex-direction: row;
+
+}
+
+.Item1{
+    
+    
+    flex-direction: row;
+
+}
+
+.Item1 img{
+
+opacity: 0.33;
+
+
+}
+.Item1:hover img{
+    opacity: 100;
+}
+
+.Item2{
+    
+    
+    flex-direction: row;
+
+}
+
+.Item2 img{
+
+opacity: 0.33;
+
+
+}
+.Item2:hover img{
+    opacity: 100;
+}
+
+
+.Item3{
+    
+    
+    flex-direction: row;
+
+}
+
+.Item3 img{
+
+opacity: 0.33;
+
+
+}
+.Item3:hover img{
+    opacity: 100;
+}
+
+
+.Item4{
+    
+    
+    flex-direction: row;
+
+}
+
+.Item4 img{
+
+opacity: 0.33;
+
+
+}
+.Item4:hover img{
+    opacity: 100;
+}
+
+
+
+.Item5{
+    
+    
+    flex-direction: row;
+
+}
+
+.Item5 img{
+
+opacity: 0.33;
+
+
+}
+.Item5:hover img{
+    opacity: 100;
+}
+
+
+.Item6{
+    
+    
+
+    flex-direction: row;
+}
+
+.Item6 img{
+
+opacity: 0.33;
+
+
+}
+.Item6:hover img{
+    opacity: 100;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
